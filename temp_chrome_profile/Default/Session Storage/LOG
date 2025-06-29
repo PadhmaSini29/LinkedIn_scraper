@@ -1,0 +1,18 @@
+2025/06/29-18:22:54.689 3ad8 Reusing MANIFEST C:\Users\lgspa\linkedin-scraper\temp_chrome_profile\Default\Session Storage/MANIFEST-000001
+2025/06/29-18:22:54.695 3ad8 Recovering log #25
+2025/06/29-18:22:54.702 3ad8 Reusing old log C:\Users\lgspa\linkedin-scraper\temp_chrome_profile\Default\Session Storage/000025.log 
+2025/06/29-18:31:50.994 5320 Level-0 table #29: started
+2025/06/29-18:31:51.033 5320 Level-0 table #29: 28541 bytes OK
+2025/06/29-18:31:51.093 5320 Delete type=0 #25
+2025/06/29-18:31:51.094 3ad8 Compacting 4@0 + 1@1 files
+2025/06/29-18:31:51.186 3ad8 Generated table #30@0: 616 keys, 30202 bytes
+2025/06/29-18:31:51.187 3ad8 Compacted 4@0 + 1@1 files => 30202 bytes
+2025/06/29-18:31:51.190 3ad8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/29-18:31:51.192 3ad8 Delete type=2 #17
+2025/06/29-18:31:51.192 3ad8 Delete type=2 #20
+2025/06/29-18:31:51.192 3ad8 Delete type=2 #23
+2025/06/29-18:31:51.192 3ad8 Delete type=2 #26
+2025/06/29-18:31:51.193 3ad8 Delete type=2 #29
+2025/06/29-18:38:04.333 5320 Level-0 table #32: started
+2025/06/29-18:38:04.428 5320 Level-0 table #32: 29753 bytes OK
+2025/06/29-18:38:04.479 5320 Delete type=0 #28

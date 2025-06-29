@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>LinkedIn Scraper</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>🔎 LinkedIn Scraper</h1>
+    <p>Status: <strong>{{ status.message }}</strong></p>
+
+    <form action="{{ url_for('start_scraping') }}" method="post">
+      <button type="submit" {% if status.running %}disabled{% endif %}>
+        {% if status.running %}Scraping...{% else %}Start Scraping{% endif %}
+      </button>
+    </form>
+
+    <div class="info">
+      <p>Output file: <code>linkedin_profiles.json</code></p>
+      <p>Progress file: <code>scraped_urls.txt</code></p>
+    </div>
+  </div>
+</body>
+</html>
