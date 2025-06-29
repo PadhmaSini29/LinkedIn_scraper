@@ -126,7 +126,7 @@ python linkedin_scraper.py
 
 ## 🧠 Author
 
-**Your Name**  
+**Padhmasini**  
 [GitHub Profile](https://github.com/PadhmaSini29)
 
 
